@@ -1,0 +1,15 @@
+name: python-raster
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - gdal
+  - jupyterlab
+  - numpy
+  - scipy
+  - pandas
+  - geopandas
+  - rasterio
+  - richdem
+  - rasterstats
+  - matplotlib
